@@ -1,0 +1,35 @@
+{
+    "name": "INFKTED Mask",
+    "symbol": "INFSP",
+    "image": "Rare1.png",
+    "description": "In this INFKTED new world, it's imperative that you wield the right items, tools, and supplies that can give you the best shot of surviving the TOXIC and WRETCHED things that lurk in the darkness. INFKTED Supplies holders will unlock a wealth of mystery perks and utilities.",
+    "external_url": "https://infkted.com",
+    "seller_fee_basis_points": 777,
+    "properties": {
+        "files": [
+            {
+                "uri": "Rare1.png",
+                 "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "attributes": [
+        {
+            "trait_type": "Item Type",
+            "value": "Survival"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Spilling Blood"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Undead"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
